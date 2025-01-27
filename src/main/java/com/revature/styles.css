@@ -24,13 +24,16 @@ body {
   }
   
   #book-list li {
+    display: inline-table;
     list-style: none;
-    margin: 10px 0;
+    margin: 10px;
     padding: 10px;
     border: 1px solid #ddd;
   }
   
   #selected-book {
+    text-align: center;
+    font-size: large;
     margin-top: 20px;
     padding: 20px;
     border: 2px solid #333;
