@@ -1,4 +1,4 @@
-# Project: Book Finder Full-Stack Application
+# Project: Book Finder Application
 
 
 
